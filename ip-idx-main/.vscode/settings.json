@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    ".vscode": true,
+    ".idx": true
+  },
+
+  "haskell.manageHLS": "PATH",
+
+  "IDX.aI.enableInlineCompletion": false,
+  "IDX.aI.enableCodebaseIndexing": false
+}
